@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Madi Sharipov!
+## Hi there 👋, I'm Madi!
 
 I'm a passionate software developer specializing in **mobile development** and **cybersecurity**. I enjoy solving complex problems through code and constantly seek new challenges to improve my skills. When I'm not coding, you can find me exploring the latest trends in **Swift**, **Android** development, and **emerging technologies**.
 
