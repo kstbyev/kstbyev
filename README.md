@@ -23,7 +23,7 @@ I'm a **mobile developer from Kazakhstan**, specializing in **Swift iOS developm
 ---
 
 ### 💻 LeetCode Stats:
-[![Madi Sharipov's LeetCode Stats](https://leetcard.jacoblin.cool/Madi13?theme=light&font=Eczar&ext=activity)](https://leetcode.com/u/Madi13/)
+[![Madi Sharipov's LeetCode Stats](https://leetcard.jacoblin.cool/Madi13?theme=light&font=Eczar&ext=activity)
 
 ---
 
