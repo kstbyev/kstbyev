@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Madi!
 
-I'm a **mobile developer from Kazakhstan**, specializing in **Swift iOS development**. I'm currently studying **Computer Science** at [Nazarbayev University](https://nu.edu.kz/) 📖, where I focus on building efficient, scalable mobile applications. I am continuously improving my skills in mobile development and keeping up with the latest industry trends. I’m also excited to be a proud **graduate** 👨‍🎓.
+I'm a **mobile developer from Kazakhstan**, specializing in **Swift iOS development**. **Computer Science** at [Nazarbayev University](https://nu.edu.kz/) 📖
 
 
 ---
